@@ -1,4 +1,4 @@
-package com.ruthalicewilliams.timefighter
+package com.raywenderlich.timefighter
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

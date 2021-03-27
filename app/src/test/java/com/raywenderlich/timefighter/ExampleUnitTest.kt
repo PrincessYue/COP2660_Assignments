@@ -1,4 +1,4 @@
-package com.ruthalicewilliams.timefighter
+package com.raywenderlich.timefighter
 
 import org.junit.Test
 
